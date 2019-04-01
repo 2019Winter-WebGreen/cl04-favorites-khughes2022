@@ -1,17 +1,17 @@
 /*
 * Kayla Hughes
 * 4-1-19
-* Favorite Things images
+* Favorite Things Images
 */
 *{
 
 }
 /* Body attributes here */
 body {
-background-color:azure 
+background-color:azure  /* This is the background color */
 
 }
-    img {width: 300px;} /* This makes all the images the same size, 300px */
-#dylan {float:right}
-#food {float: right}    /* The "#" attributes make the images go to the right side of the page */
-#pets {float: right}
+    img {width: 300px;} /* This makes all the images the same size, 300 px */
+#dylan {float:right} /* This makes the image of dylan obrien move to the right of the page */
+#food {float: right} /* This makes the image of food move to the right of the page */
+#pets {float: right} /* This makes the image of pets move to the right of the page */
