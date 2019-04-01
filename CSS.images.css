@@ -1,17 +1,17 @@
 /*
 * Kayla Hughes
-* Date
-* Project Name
+* 4-1-19
+* Favorite Things images
 */
 *{
 
 }
 /* Body attributes here */
 body {
-background-color:azure
+background-color:azure 
 
 }
-    img {width: 300px;}
+    img {width: 300px;} /* This makes all the images the same size, 300px */
 #dylan {float:right}
-#food {float: right}
+#food {float: right}    /* The "#" attributes make the images go to the right side of the page */
 #pets {float: right}
